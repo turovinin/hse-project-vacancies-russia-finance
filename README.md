@@ -1,4 +1,4 @@
-# andan_project_hse
+# andan_project
 Итоговый проект по анализу данных 
 
 Участники команды «АнДаН project pictures предаставляет...»: 
